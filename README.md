@@ -2,20 +2,25 @@
 
 ## 📊 Data, Security, & Software Projects
 
-- **Lifelog – Full Stack Web Application** (C#, .NET 8, ASP.NET Core, MySQL, AWS)
-  - Led a team of 5 to build a lifestyle tracking app using Agile development.
-  - Focused on Test-Driven Development and SOLID principles.
+- **Botium Toys Security Audit** (Cybersecurity, NIST CSF, PCI DSS, GDPR, SOC 1 & 2)
+  - Conducted a security audit for Botium Toys to assess compliance with industry standards and identify vulnerabilities.
+  - Provided actionable recommendations for enhancing data protection, access control, and system resilience.
+  - [GitHub Repository](https://github.com/Zarifzz/Security-Audit)
+
+- **Lifelog – REST API Web Application** (C#, .NET 8, ASP.NET Core, MySQL, AWS)
+  - Developed a secure REST API to handle encrypted user transactions and authentication.
+  - Implemented secure coding practices, similar to OWASP principles and access control mechanisms.
   - [GitHub Repository](https://github.com/Peace491/Life-Log)
 
 - **City of Long Beach – Data Analytics & Automation** (Python, Pandas, Data Processing)
-  - Created and Streamlined reports to Long Beach initiatives, VIP and BizCare
-  - Developed a Python script to merge police and business datasets for crime impact analysis.
+  - Engineered automated data pipelines to securely process and analyze sensitive municipal datasets.
+  - Designed robust data validation and integrity checks to ensure accuracy in crime impact analysis.
   - [GitHub Repository](https://github.com/Zarifzz/CLB_PD_BL_Datamatching)
 
 
 - **Key SQL Distribution – Key Management** (Python, SQL)
-  - Designed a complex database for managing keys given to faculty members.
-  - Created multiple database diagrams to visualize and optimize database structure.
+  - Designed a secure database system for tracking and managing faculty key access.
+  - Implemented data integrity constraints and validation mechanisms.
   - [GitHub Repository](https://github.com/PhongCao1407/KeyHook)
 
 
